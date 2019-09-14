@@ -4,3 +4,10 @@ applicant: 志望者
 relevant to: 〜に関連する
 auditor: 会計監査官
 courier: 宅配業者
+inclement weather: 悪天候
+wrangle: 論争する
+reimburse: ~を払い戻す
+run時制: run ran run
+coverage: 補償範囲
+warehouse: 倉庫
+consecutively: 引き継いで

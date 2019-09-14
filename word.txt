@@ -1,0 +1,6 @@
+litigation: 告訴
+mediation: 調停
+applicant: 志望者
+relevant to: 〜に関連する
+auditor: 会計監査官
+courier: 宅配業者

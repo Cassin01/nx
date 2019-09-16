@@ -53,3 +53,16 @@ concern:  〜に関係する
 speculate: 〜だと推測する
 alleviate: 〜を軽減する
 provided that: 〜という条件で
+receiver: 受話器
+musical instrument: 楽器
+be particular about ~: 〜にうるさい
+waive: 〜を免除する
+convincing: 説得力のある
+misplace: 〜を置き忘れる
+stroll: ぶらつく
+foreseeable: 予見できる
+Just in case.: 念のため
+anchor: 停泊する
+defect: 欠陥
+facilitate: 〜を手伝う
+restrain: 〜を抑制する

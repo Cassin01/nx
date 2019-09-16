@@ -11,3 +11,45 @@ run時制: run ran run
 coverage: 補償範囲
 warehouse: 倉庫
 consecutively: 引き継いで
+nonrecurring: 再現することができない
+prominent: 卓越した
+wholesale: 卸売の
+exterior: 外装
+inquiry: 問い合わせ
+ventilation: 換気
+tool: 通行料金
+circulation: 発行部数、流通、(図書館の)貸出
+dairy: 乳製品、酪農業、酪農場
+manuscript: 原稿
+pastry: 焼き菓子
+obligation: 義務
+prescription: 処方箋
+paralegal: 弁護士補助員
+presently: まもなく
+adversely: ついに
+cordially: 心から
+accustomed: いつもの
+embedded: 埋め込まれた
+call off: 中止する
+And yet,: なおかつ
+scrutinize: 〜を綿密に調べる
+extension: 内線(番号)、拡張
+delegation: 代表団
+certify: を保証する
+appraise: 〜を査定する
+procure: 〜を獲得する
+foreseeable: 予見できる
+embedded: 内蔵された
+prevalent: 普及している
+disposed: 傾向がある
+predictable: ありきたりの
+acknowledged: 定評のある
+abbreviated: 短縮された
+accumulated: 積み重ねられた
+diversified: 多様な
+restrained: 節度のある
+accuse: 〜を告発・非難する
+concern:  〜に関係する
+speculate: 〜だと推測する
+alleviate: 〜を軽減する
+provided that: 〜という条件で

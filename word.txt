@@ -94,3 +94,6 @@ mandate: 権限
 minutes: 議事録
 exclusively: のみ
 affordable: 手頃な(a affordable price 手頃な価格)
+flyer: チラシ
+invoice: 請求書
+exclusive interview: 独占インタビュー

@@ -1,0 +1,12 @@
+{% extends "layout.html" %}
+{% block content %}
+    <div class="hh1">
+    <h1>{{ english }}</h1>
+    </div>
+
+    <div class="hh">
+        {% for row, ans in ts %}
+        <p><a class="raised" href="/{{ans}}/{{english}}: {{japanese}}">{{row}}</a></p>
+        {% endfor %}
+    </div>
+{% endblock %}

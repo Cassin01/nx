@@ -1,11 +1,28 @@
 {% extends "layout.html" %}
 {% block content %}
     <div class="hh1">
-    <h1>{{ menu_name }}</h1>
+        <h1>{{ menu_name }}</h1>
+        <p id="demo">"tmp"</p>
+        <h3>{{ info }}</h3>
     </div>
 
     <div class="hh">
-        <p>{{ info }}</p>
-        <p><a class="raised" href="/">戻る</a></p>
+        <p><a class="raised" href="/">次へ</a></p>
     </div>
+    <script type="text/javascript">
+        const dd = () => {
+            let d = 0
+            console.log("{{times}}")
+            console.log("{{ok_times}}")
+            if ("{{times}}" > 0) {
+                d = Math.round("{{ok_times}}"/"{{times}}" * 100) 
+            } else {
+                d = 100
+            }
+            document.getElementById('demo').innerHTML =
+                "正解率 " +
+                d.toString() + "%"
+        }
+        dd()
+    </script>
 {% endblock %}

@@ -483,5 +483,15 @@
         "japanese": "独占インタビュー",
         "times": 0,
         "ok_times": 0
+    },
+    "take a detour": {
+        "japanese": "回り道をする",
+        "times": 0,
+        "ok_times": 0
+    },
+    "consolidate": {
+        "japanese": "〜を合併する",
+        "times": 0,
+        "ok_times": 0
     }
 }

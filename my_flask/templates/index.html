@@ -2,12 +2,35 @@
 {% block content %}
     <script type="text/javascript">
         const pronounce = (word) => {
-            let u = new SpeechSynthesisUtterance();
-            u.lang = 'en-US';
-            u.text = word;
-            speechSynthesis.speak(u);
+            let u = new SpeechSynthesisUtterance()
+            u.lang = 'en-US'
+            u.text = retriveEnglish(word)
+            speechSynthesis.speak(u)
         }
-    pronounce("{{english}}")
+        const retriveEnglish = (word) => {
+            let str = ""
+            const arr = genAlphabetArray()
+            for (let c of word) {
+                if (arr.indexOf(c) >= 0 || c == ' ' || c == ',') { // 存在する
+                    str += c
+                } else {
+                    break
+                }
+            }
+            return str
+        }
+        const genAlphabetArray = () => {
+            let a = [], i = 'a'.charCodeAt(0), j = 'z'.charCodeAt(0);
+            for (; i <= j; ++i) {
+                a.push(String.fromCharCode(i));
+            }
+            i = 'A'.charCodeAt(0), j = 'Z'.charCodeAt(0);
+            for (; i <= j; ++i) {
+                a.push(String.fromCharCode(i));
+            }
+            return a;
+        }
+        pronounce("{{english}}")
     </script>
 
     <div class="hh1">
@@ -19,5 +42,4 @@
         <p><a class="raised" href="/{{ans}}/{{english}}: {{japanese}}">{{row}}</a></p>
         {% endfor %}
     </div>
-
 {% endblock %}

@@ -1,13 +1,14 @@
 from flask import Flask, render_template
+
+import random
+import read_json
+
 app = Flask(__name__)
 #    FLASK_APP="index.py" FLASK_ENV=development flask run
 
-import random
-import read
-
 
 try:
-    data = read.read()
+    data = read_json.read()
 except Exception as e:
     print(f"例外検知: {str(e)}")
 

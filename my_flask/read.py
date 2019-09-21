@@ -6,11 +6,11 @@ def edit(text):
     return text
 
 # 読込むファイルのパスを宣言する
-file_name = "./word.txt"
+file_name = "./../word.txt"
 
 def read():
     try:
-        file = open(file_name)
+        file = open(file_name, 'r')
         data = file.read()
     except Exception as e:
         print(e)

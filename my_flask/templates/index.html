@@ -1,5 +1,15 @@
 {% extends "layout.html" %}
 {% block content %}
+    <script type="text/javascript">
+        const pronounce = (word) => {
+            let u = new SpeechSynthesisUtterance();
+            u.lang = 'en-US';
+            u.text = word;
+            speechSynthesis.speak(u);
+        }
+    pronounce("{{english}}")
+    </script>
+
     <div class="hh1">
     <h1>{{ english }}</h1>
     </div>

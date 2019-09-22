@@ -83,7 +83,7 @@ program ratings: 視聴率
 competitive compensation: 高収入
 sluggish sales: 売り上げ不振
 upturn in business: 事業の好転
-box office  receipts: 興行収入
+box office receipts: 興行収入
 inventiveness: 発明性
 appraisal: 査定、評価
 constraint: 制約
@@ -97,3 +97,11 @@ affordable: 手頃な(a affordable price 手頃な価格)
 flyer: チラシ
 invoice: 請求書
 exclusive interview: 独占インタビュー
+take a detour: 回り道をする
+consolidate: 〜を合併する
+supply room: 倉庫
+amendment: 修正
+final revision: 最後の改定
+premises: 敷地
+boasts: 誇る
+advocate: 主張、主張する

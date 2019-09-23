@@ -5,8 +5,10 @@ def edit(text):
     text = list(map(lambda x: [x[0], x[1][1:]] if x[1][0] == ' ' else x, text))
     return text
 
+
 # 読込むファイルのパスを宣言する
 file_name = "./../word.txt"
+
 
 def read():
     try:

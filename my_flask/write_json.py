@@ -3,6 +3,7 @@ import collections as cl
 
 import read
 
+
 def main():
     name_list = read.read()
     ys = cl.OrderedDict()

@@ -16,13 +16,14 @@ except Exception as e:
 
 class Word:
     eng = ""
+    jp = ""
     times = 0
     ok_times = 0
 
-    def __init__(self, eng):
+    def __init__(self, eng, jp, times, ok_times):
         self.eng = eng
-        self.times = 0
-        self.ok_times = 0
+        self.times = times
+        self.ok_times = ok_times
 
 
 def srch(eng, ls):
@@ -32,9 +33,9 @@ def srch(eng, ls):
     return -1
 
 
-target =[]
+target = []
 for d in data:
-    word = Word(d[0])
+    word = Word(d[0], d[1], 0, 0)
     target.append(word)
 
 # メニューを表示
@@ -63,7 +64,7 @@ def fok(info=None):
     return render_template("screen_tran.html", menu_name=menu_name,
             info=info, times=target[eng].times, ok_times=target[eng].ok_times)
 
-    # NO
+# NO
 @app.route("/no/<info>")
 def fno(info=None):
     eng = retrive.retrive(info)
@@ -72,3 +73,26 @@ def fno(info=None):
     menu_name = "NO"
     return render_template("screen_tran.html", menu_name=menu_name,
             info=info, times=target[eng].times, ok_times=target[eng].ok_times)
+
+
+@app.route("/save")
+def save():
+    import json
+    import collections as cl
+    ys = cl.OrderedDict()
+
+    for t in target:
+        tmp_data = cl.OrderedDict()
+        tmp_data["japanese"] = t.jp
+        tmp_data["times"] = t.times
+        tmp_data["ok_times"] = t.ok_times
+        ys[t.eng] = tmp_data
+
+    try:
+        fw = open('data/myu_s.json', 'w')
+        json.dump(ys, fw, indent=4, ensure_ascii=False)
+    except Exception as e:
+        print(e)
+    finally:
+        fw.close()
+    return render_template("save.html")

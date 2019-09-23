@@ -9,13 +9,20 @@
     <div class="hh">
         <p><a class="raised" href="/">次へ</a></p>
     </div>
+    <br>
+    <br>
+    <br>
+    <br>
+    <p>
+    <a class="raised" href="/save">セーブする</a>
+    </p>
     <script type="text/javascript">
         const dd = () => {
             let d = 0
             console.log("{{times}}")
             console.log("{{ok_times}}")
             if ("{{times}}" > 0) {
-                d = Math.round("{{ok_times}}"/"{{times}}" * 100) 
+                d = Math.round("{{ok_times}}"/"{{times}}" * 100)
             } else {
                 d = 100
             }

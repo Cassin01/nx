@@ -105,3 +105,6 @@ final revision: 最後の改定
 premises: 敷地
 boasts: 誇る
 advocate: 主張、主張する
+confirm: 確認する
+outstanding balance: 未払いの残金
+receptionist: 受付係

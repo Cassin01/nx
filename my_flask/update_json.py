@@ -20,6 +20,8 @@ def gain_update_data():
         w = read_all_json_data.Word(new_d[0], new_d[1], 0, 0)
         json_data.append(w)
 
+    json_data = retrive_deleted_data(json_data, text_data)
+
     return json_data
 
 
@@ -34,7 +36,7 @@ def write_json(ws):
         data["ok_times"] = d.ok_times
 
         ys[d.eng] = data
-    print("{}".format(json.dumps(ys, indent=4)))
+    #print("{}".format(json.dumps(ys, indent=4)))
 
     try:
         fw = open('data/myu_s.json', 'w')
@@ -45,7 +47,24 @@ def write_json(ws):
         fw.close()
 
 
+def retrive_deleted_data(wds, text_data):
+    eng_data = []
+    for d in text_data:
+        eng_data.append(d[0])
+
+    new_wds = []
+    for wd in wds:
+        if wd.eng in eng_data:
+            new_wds.append(wd)
+    return new_wds
+
+
 def main():
+    ds = gain_update_data()
+    write_json(ds)
+
+
+def update():
     ds = gain_update_data()
     write_json(ds)
 

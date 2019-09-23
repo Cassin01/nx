@@ -3,6 +3,9 @@ from flask import Flask, render_template
 import random
 import read_json
 import retrive
+import update_json
+
+update_json.update()
 
 app = Flask(__name__)
 #    FLASK_APP="index.py" FLASK_ENV=development flask run
@@ -21,6 +24,7 @@ class Word:
     ok_times = 0
 
     def __init__(self, eng, jp, times, ok_times):
+        self.jp = jp
         self.eng = eng
         self.times = times
         self.ok_times = ok_times

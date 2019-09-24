@@ -1,3 +1,4 @@
+
 from flask import Flask, render_template
 
 import random
@@ -18,11 +19,6 @@ except Exception as e:
 
 
 class Word:
-    eng = ""
-    jp = ""
-    times = 0
-    ok_times = 0
-
     def __init__(self, eng, jp, times, ok_times):
         self.jp = jp
         self.eng = eng
@@ -39,19 +35,36 @@ def srch(eng, ls):
 
 target = []
 for d in data:
-    word = Word(d[0], d[1], 0, 0)
+    word = Word(d[0], d[1], d[2], d[3])
     target.append(word)
 
-# メニューを表示
-@app.route("/")
-def menu():
-    num = random.randrange(0, len(data))
-    english = data[num][0]
-    japanese = data[num][1]
 
-    ts = [[data[num][1], "ok"]]
+@app.route("/")
+def home():
+    return render_template("home.html")
+
+@app.route("/show")
+def show():
+    ds = []
+    for t in target:
+        rate = 0. if t.times == 0 else t.ok_times / t.times
+        ds.append([t.eng, t.jp, rate])
+
+    ds = sorted(ds, key=lambda t: t[2])
+
+    return render_template("show.html", ds=ds)
+
+
+# メニューを表示
+@app.route("/easy")
+def menu():
+    num = random.randrange(0, len(target))
+    english = target[num].eng
+    japanese = target[num].jp
+
+    ts = [[target[num].jp, "ok"]]
     while len(ts) < 4:
-        row = data[random.randrange(0, len(data))][1]
+        row = target[random.randrange(0, len(target))].jp
         if [row, "no"] not in ts and [row, "ok"] not in ts:
             ts.append([row, "no"])
     random.shuffle(ts)

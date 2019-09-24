@@ -1,0 +1,22 @@
+{% extends "layout.html" %}
+{% block content %}
+<p>
+    <a class="raised" href="/">ホームへ戻る</a>
+</p>
+
+<table id="words">
+<thead><tr><th align="left">英語</th><th align="left">日本語</th><th align="left">正解率(%)</th></tr></thead>
+<tbody>
+{% for eng, jp, rate in ds %}
+    <tr><td>{{eng}}</td><td>{{jp}}</td><td>{{rate}}</td></tr>
+{% endfor %}
+</tbody>
+</table>
+<script type="text/javascript">
+    let table = document.getElementById('words')
+for (let i = 1; i < table.rows.length; i++) {
+    let cell = table.rows[i].cells[2];
+    cell.innerHTML = Math.floor(cell.innerHTML * 100)
+}
+</script>
+{% endblock %}

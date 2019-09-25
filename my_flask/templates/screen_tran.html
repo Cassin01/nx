@@ -1,47 +1,49 @@
 {% extends "layout.html" %}
 {% block content %}
-    <div class="hh1">
-        <h1 id="ans">{{ menu_name }}</h1>
-        <h3>{{ info }}</h3>
-        <p id="demo">"tmp"</p>
-    </div>
+<div class="box">
+<div class="hh1">
+    <h1 id="ans">{{ menu_name }}</h1>
+</div>
+</div>
+    <h3>{{ info }}</h3>
+    <p id="demo">"tmp"</p>
 
     <div class="hh">
         <p><a class="raised" href="/easy">次へ</a></p>
     </div>
-    <br>
-    <br>
-    <br>
-    <br>
-    <p>
-    <a class="raised" href="/">ホームへ戻る</a>
-    </p>
-    <script type="text/javascript">
-        const dd = () => {
-            let d = 0
-            console.log("{{times}}")
-            console.log("{{ok_times}}")
-            if ("{{times}}" > 0) {
-                d = Math.round("{{ok_times}}"/"{{times}}" * 100)
-            } else {
-                d = 100
-            }
-            document.getElementById('demo').innerHTML =
-                "正答率 " +
-                d.toString() + "%"
+<br>
+<br>
+<br>
+<br>
+<p>
+<a class="raised" href="/">ホームへ戻る</a>
+</p>
+<script type="text/javascript">
+    const dd = () => {
+        let d = 0
+        console.log("{{times}}")
+        console.log("{{ok_times}}")
+        if ("{{times}}" > 0) {
+            d = Math.round("{{ok_times}}"/"{{times}}" * 100)
+        } else {
+            d = 100
         }
-        dd()
-    </script>
-    <script type="text/javascript">
-        const color = () => {
-            let d = "{{menu_name}}"
-            console.log(d)
-            if (d == "OK") {
-                document.getElementById('ans').style.color = '#01579B'
-            } else {
-                document.getElementById('ans').style.color = '#EF5350'
-            }
+        document.getElementById('demo').innerHTML =
+            "正答率 " +
+            d.toString() + "%"
+    }
+dd()
+</script>
+<script type="text/javascript">
+    const color = () => {
+        let d = "{{menu_name}}"
+        console.log(d)
+        if (d == "OK") {
+            document.getElementById('ans').style.color = '#01579B'
+        } else {
+            document.getElementById('ans').style.color = '#EF5350'
         }
-        color()
-    </script>
+    }
+color()
+</script>
 {% endblock %}

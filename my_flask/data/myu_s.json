@@ -61,8 +61,8 @@
     },
     "consecutively": {
         "japanese": "引き続いて",
-        "times": 4,
-        "ok_times": 3
+        "times": 5,
+        "ok_times": 4
     },
     "nonrecurring": {
         "japanese": "再現することができない",
@@ -106,13 +106,13 @@
     },
     "dairy": {
         "japanese": "乳製品、酪農業、酪農場",
-        "times": 5,
+        "times": 6,
         "ok_times": 5
     },
     "manuscript": {
         "japanese": "原稿",
-        "times": 8,
-        "ok_times": 7
+        "times": 9,
+        "ok_times": 8
     },
     "pastry": {
         "japanese": "焼き菓子",
@@ -131,13 +131,13 @@
     },
     "paralegal": {
         "japanese": "弁護士補助員",
-        "times": 9,
-        "ok_times": 9
+        "times": 10,
+        "ok_times": 10
     },
     "presently": {
         "japanese": "まもなく",
-        "times": 4,
-        "ok_times": 3
+        "times": 5,
+        "ok_times": 4
     },
     "adversely": {
         "japanese": "ついに",
@@ -156,13 +156,13 @@
     },
     "call off": {
         "japanese": "中止する",
-        "times": 4,
-        "ok_times": 4
+        "times": 6,
+        "ok_times": 5
     },
     "And yet,": {
         "japanese": "なおかつ",
-        "times": 6,
-        "ok_times": 6
+        "times": 7,
+        "ok_times": 7
     },
     "scrutinize": {
         "japanese": "〜を綿密に調べる",
@@ -186,7 +186,7 @@
     },
     "appraise": {
         "japanese": "〜を査定する",
-        "times": 7,
+        "times": 8,
         "ok_times": 4
     },
     "procure": {
@@ -201,12 +201,12 @@
     },
     "embedded": {
         "japanese": "内蔵された、埋め込まれた",
-        "times": 4,
-        "ok_times": 3
+        "times": 5,
+        "ok_times": 4
     },
     "prevalent": {
         "japanese": "普及している",
-        "times": 3,
+        "times": 4,
         "ok_times": 3
     },
     "disposed": {
@@ -271,8 +271,8 @@
     },
     "receiver": {
         "japanese": "受話器",
-        "times": 5,
-        "ok_times": 5
+        "times": 6,
+        "ok_times": 6
     },
     "musical instrument": {
         "japanese": "楽器",
@@ -316,13 +316,13 @@
     },
     "defect": {
         "japanese": "欠陥",
-        "times": 3,
+        "times": 4,
         "ok_times": 3
     },
     "facilitate": {
         "japanese": "〜を手伝う",
-        "times": 4,
-        "ok_times": 1
+        "times": 5,
+        "ok_times": 2
     },
     "restrain": {
         "japanese": "〜を抑制する",
@@ -371,8 +371,8 @@
     },
     "conform to ~": {
         "japanese": "(規則など)に従う、〜と一致する(conform with ~ でもOK)",
-        "times": 5,
-        "ok_times": 3
+        "times": 6,
+        "ok_times": 4
     },
     "address to ~": {
         "japanese": "〜向けの演説",
@@ -431,8 +431,8 @@
     },
     "constraint": {
         "japanese": "制約",
-        "times": 8,
-        "ok_times": 7
+        "times": 9,
+        "ok_times": 8
     },
     "deduct": {
         "japanese": "控除する",
@@ -441,8 +441,8 @@
     },
     "plumber": {
         "japanese": "配管工",
-        "times": 8,
-        "ok_times": 8
+        "times": 9,
+        "ok_times": 9
     },
     "specifications": {
         "japanese": "仕様書",
@@ -461,8 +461,8 @@
     },
     "exclusively": {
         "japanese": "のみ",
-        "times": 6,
-        "ok_times": 4
+        "times": 7,
+        "ok_times": 5
     },
     "affordable": {
         "japanese": "手頃な(a affordable price 手頃な価格)",
@@ -471,8 +471,8 @@
     },
     "flyer": {
         "japanese": "チラシ",
-        "times": 6,
-        "ok_times": 6
+        "times": 7,
+        "ok_times": 7
     },
     "invoice": {
         "japanese": "請求書",
@@ -486,8 +486,8 @@
     },
     "take a detour": {
         "japanese": "回り道をする",
-        "times": 9,
-        "ok_times": 6
+        "times": 10,
+        "ok_times": 7
     },
     "consolidate": {
         "japanese": "〜を合併する",
@@ -506,8 +506,8 @@
     },
     "final revision": {
         "japanese": "最後の改定",
-        "times": 2,
-        "ok_times": 2
+        "times": 3,
+        "ok_times": 3
     },
     "premises": {
         "japanese": "敷地",
@@ -558,5 +558,10 @@
         "japanese": "手頃な値段",
         "times": 10,
         "ok_times": 9
+    },
+    "questionnaire": {
+        "japanese": "アンケート",
+        "times": 0,
+        "ok_times": 0
     }
 }

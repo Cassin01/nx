@@ -70,6 +70,21 @@ def menu():
     random.shuffle(ts)
     return render_template("index.html", english=english, japanese=japanese, ts=ts)
 
+
+@app.route("/hard")
+def menu_hard():
+    num = random.randrange(0, len(target))
+    english = target[num].eng
+    japanese = target[num].jp
+
+    ts = [[target[num].jp, "ok"]]
+    while len(ts) < 4:
+        row = target[random.randrange(0, len(target))].jp
+        if [row, "no"] not in ts and [row, "ok"] not in ts:
+            ts.append([row, "no"])
+    random.shuffle(ts)
+    return render_template("index.html", english=english, japanese=japanese, ts=ts)
+
 # OK
 @app.route("/ok/<info>")
 def fok(info=None):

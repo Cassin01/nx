@@ -1,9 +1,9 @@
 {% extends "layout.html" %}
 {% block content %}
     <div class="hh1">
-        <h1>{{ menu_name }}</h1>
-        <p id="demo">"tmp"</p>
+        <h1 id="ans">{{ menu_name }}</h1>
         <h3>{{ info }}</h3>
+        <p id="demo">"tmp"</p>
     </div>
 
     <div class="hh">
@@ -31,5 +31,17 @@
                 d.toString() + "%"
         }
         dd()
+    </script>
+    <script type="text/javascript">
+        const color = () => {
+            let d = "{{menu_name}}"
+            console.log(d)
+            if (d == "OK") {
+                document.getElementById('ans').style.color = '#01579B'
+            } else {
+                document.getElementById('ans').style.color = '#EF5350'
+            }
+        }
+        color()
     </script>
 {% endblock %}

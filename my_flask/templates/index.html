@@ -1,5 +1,21 @@
 {% extends "layout.html" %}
 {% block content %}
+    <div class="hh1">
+    <h1>{{ english }}</h1>
+    </div>
+
+    <div class="hh">
+        {% for row, ans in ts %}
+        <p><a class="raised" href="/{{ans}}/{{english}}: {{japanese}}">{{row}}</a></p>
+        {% endfor %}
+    </div>
+    <br>
+    <br>
+    <br>
+    <p>
+    <a class="raised" href="/">ホームへ戻る</a>
+    </p>
+
     <script type="text/javascript">
         const pronounce = (word) => {
             let u = new SpeechSynthesisUtterance()
@@ -32,20 +48,4 @@
         }
         pronounce("{{english}}")
     </script>
-
-    <div class="hh1">
-    <h1>{{ english }}</h1>
-    </div>
-
-    <div class="hh">
-        {% for row, ans in ts %}
-        <p><a class="raised" href="/{{ans}}/{{english}}: {{japanese}}">{{row}}</a></p>
-        {% endfor %}
-    </div>
-    <br>
-    <br>
-    <br>
-    <p>
-    <a class="raised" href="/">ホームへ戻る</a>
-    </p>
 {% endblock %}

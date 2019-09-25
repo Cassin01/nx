@@ -1,33 +1,33 @@
 {
     "litigation": {
         "japanese": "告訴",
-        "times": 0,
-        "ok_times": 0
+        "times": 2,
+        "ok_times": 1
     },
     "mediation": {
         "japanese": "調停",
-        "times": 1,
-        "ok_times": 1
+        "times": 6,
+        "ok_times": 6
     },
     "applicant": {
         "japanese": "志望者",
-        "times": 0,
-        "ok_times": 0
+        "times": 3,
+        "ok_times": 2
     },
     "relevant to": {
         "japanese": "〜に関連する",
-        "times": 2,
-        "ok_times": 2
+        "times": 7,
+        "ok_times": 6
     },
     "auditor": {
         "japanese": "会計監査官",
-        "times": 0,
-        "ok_times": 0
+        "times": 7,
+        "ok_times": 7
     },
     "courier": {
         "japanese": "宅配業者",
-        "times": 3,
-        "ok_times": 3
+        "times": 12,
+        "ok_times": 9
     },
     "inclement weather": {
         "japanese": "悪天候",
@@ -36,58 +36,58 @@
     },
     "wrangle": {
         "japanese": "論争する",
-        "times": 2,
-        "ok_times": 1
+        "times": 4,
+        "ok_times": 2
     },
     "reimburse": {
         "japanese": "~を払い戻す",
-        "times": 1,
-        "ok_times": 1
+        "times": 5,
+        "ok_times": 5
     },
     "run時制": {
         "japanese": "run ran run",
-        "times": 2,
-        "ok_times": 2
+        "times": 4,
+        "ok_times": 4
     },
     "coverage": {
         "japanese": "補償範囲",
-        "times": 2,
-        "ok_times": 2
+        "times": 9,
+        "ok_times": 9
     },
     "warehouse": {
         "japanese": "倉庫",
-        "times": 2,
-        "ok_times": 2
+        "times": 6,
+        "ok_times": 6
     },
     "consecutively": {
         "japanese": "引き続いて",
-        "times": 0,
-        "ok_times": 0
+        "times": 4,
+        "ok_times": 3
     },
     "nonrecurring": {
         "japanese": "再現することができない",
-        "times": 0,
-        "ok_times": 0
+        "times": 1,
+        "ok_times": 1
     },
     "prominent": {
         "japanese": "卓越した",
-        "times": 2,
-        "ok_times": 2
+        "times": 7,
+        "ok_times": 6
     },
     "wholesale": {
         "japanese": "卸売の",
-        "times": 2,
-        "ok_times": 2
+        "times": 5,
+        "ok_times": 5
     },
     "exterior": {
         "japanese": "外装",
-        "times": 0,
-        "ok_times": 0
+        "times": 4,
+        "ok_times": 3
     },
     "inquiry": {
         "japanese": "問い合わせ",
-        "times": 1,
-        "ok_times": 1
+        "times": 2,
+        "ok_times": 2
     },
     "ventilation": {
         "japanese": "換気",
@@ -96,418 +96,418 @@
     },
     "tool": {
         "japanese": "通行料金",
-        "times": 1,
-        "ok_times": 1
+        "times": 4,
+        "ok_times": 4
     },
     "circulation": {
         "japanese": "発行部数、流通、(図書館の)貸出",
-        "times": 1,
-        "ok_times": 1
+        "times": 4,
+        "ok_times": 4
     },
     "dairy": {
         "japanese": "乳製品、酪農業、酪農場",
-        "times": 2,
-        "ok_times": 2
+        "times": 5,
+        "ok_times": 5
     },
     "manuscript": {
         "japanese": "原稿",
-        "times": 3,
-        "ok_times": 2
+        "times": 8,
+        "ok_times": 7
     },
     "pastry": {
         "japanese": "焼き菓子",
-        "times": 2,
-        "ok_times": 2
+        "times": 5,
+        "ok_times": 5
     },
     "obligation": {
         "japanese": "義務",
-        "times": 0,
-        "ok_times": 0
+        "times": 3,
+        "ok_times": 3
     },
     "prescription": {
         "japanese": "処方箋",
-        "times": 3,
-        "ok_times": 3
+        "times": 5,
+        "ok_times": 5
     },
     "paralegal": {
         "japanese": "弁護士補助員",
-        "times": 3,
-        "ok_times": 3
+        "times": 9,
+        "ok_times": 9
     },
     "presently": {
         "japanese": "まもなく",
-        "times": 2,
-        "ok_times": 1
+        "times": 4,
+        "ok_times": 3
     },
     "adversely": {
         "japanese": "ついに",
-        "times": 1,
-        "ok_times": 1
+        "times": 4,
+        "ok_times": 4
     },
     "cordially": {
         "japanese": "心から",
-        "times": 0,
-        "ok_times": 0
+        "times": 4,
+        "ok_times": 4
     },
     "accustomed": {
         "japanese": "いつもの",
-        "times": 3,
+        "times": 4,
         "ok_times": 1
     },
     "call off": {
         "japanese": "中止する",
-        "times": 2,
-        "ok_times": 2
+        "times": 4,
+        "ok_times": 4
     },
     "And yet,": {
         "japanese": "なおかつ",
-        "times": 1,
-        "ok_times": 1
+        "times": 6,
+        "ok_times": 6
     },
     "scrutinize": {
         "japanese": "〜を綿密に調べる",
-        "times": 5,
-        "ok_times": 5
+        "times": 9,
+        "ok_times": 9
     },
     "extension": {
         "japanese": "内線(番号)、拡張",
-        "times": 3,
-        "ok_times": 2
+        "times": 6,
+        "ok_times": 5
     },
     "delegation": {
         "japanese": "代表団",
-        "times": 0,
-        "ok_times": 0
+        "times": 3,
+        "ok_times": 3
     },
     "certify": {
         "japanese": "を保証する",
-        "times": 1,
-        "ok_times": 1
+        "times": 7,
+        "ok_times": 6
     },
     "appraise": {
         "japanese": "〜を査定する",
-        "times": 3,
-        "ok_times": 1
+        "times": 7,
+        "ok_times": 4
     },
     "procure": {
         "japanese": "〜を獲得する",
-        "times": 0,
-        "ok_times": 0
+        "times": 4,
+        "ok_times": 2
     },
     "foreseeable": {
         "japanese": "予見できる",
-        "times": 2,
-        "ok_times": 2
+        "times": 8,
+        "ok_times": 8
     },
     "embedded": {
         "japanese": "内蔵された、埋め込まれた",
-        "times": 0,
-        "ok_times": 0
+        "times": 4,
+        "ok_times": 3
     },
     "prevalent": {
         "japanese": "普及している",
-        "times": 1,
-        "ok_times": 1
+        "times": 3,
+        "ok_times": 3
     },
     "disposed": {
         "japanese": "傾向がある",
-        "times": 1,
-        "ok_times": 0
+        "times": 6,
+        "ok_times": 2
     },
     "predictable": {
         "japanese": "ありきたりの",
-        "times": 1,
-        "ok_times": 1
-    },
-    "acknowledged": {
-        "japanese": "定評のある",
-        "times": 0,
-        "ok_times": 0
-    },
-    "abbreviated": {
-        "japanese": "短縮された",
-        "times": 0,
-        "ok_times": 0
-    },
-    "accumulated": {
-        "japanese": "積み重ねられた",
-        "times": 1,
-        "ok_times": 1
-    },
-    "diversified": {
-        "japanese": "多様な",
-        "times": 0,
-        "ok_times": 0
-    },
-    "restrained": {
-        "japanese": "節度のある",
-        "times": 1,
-        "ok_times": 1
-    },
-    "accuse": {
-        "japanese": "〜を告発・非難する",
-        "times": 4,
-        "ok_times": 4
-    },
-    "concern": {
-        "japanese": " 〜に関係する",
         "times": 5,
         "ok_times": 5
     },
-    "speculate": {
-        "japanese": "〜だと推測する",
-        "times": 0,
-        "ok_times": 0
-    },
-    "alleviate": {
-        "japanese": "〜を軽減する",
-        "times": 0,
-        "ok_times": 0
-    },
-    "provided that": {
-        "japanese": "〜という条件で",
-        "times": 2,
-        "ok_times": 2
-    },
-    "receiver": {
-        "japanese": "受話器",
-        "times": 1,
-        "ok_times": 1
-    },
-    "musical instrument": {
-        "japanese": "楽器",
-        "times": 1,
-        "ok_times": 1
-    },
-    "be particular about ~": {
-        "japanese": "〜にうるさい",
-        "times": 1,
-        "ok_times": 1
-    },
-    "waive": {
-        "japanese": "〜を免除する",
-        "times": 2,
-        "ok_times": 1
-    },
-    "convincing": {
-        "japanese": "説得力のある",
-        "times": 4,
-        "ok_times": 4
-    },
-    "misplace": {
-        "japanese": "〜を置き忘れる",
-        "times": 2,
-        "ok_times": 2
-    },
-    "stroll": {
-        "japanese": "ぶらつく",
-        "times": 2,
-        "ok_times": 2
-    },
-    "Just in case.": {
-        "japanese": "念のため",
-        "times": 1,
-        "ok_times": 1
-    },
-    "anchor": {
-        "japanese": "停泊する",
-        "times": 2,
-        "ok_times": 0
-    },
-    "defect": {
-        "japanese": "欠陥",
-        "times": 0,
-        "ok_times": 0
-    },
-    "facilitate": {
-        "japanese": "〜を手伝う",
-        "times": 1,
-        "ok_times": 0
-    },
-    "restrain": {
-        "japanese": "〜を抑制する",
-        "times": 2,
-        "ok_times": 2
-    },
-    "malfunction": {
-        "japanese": "不調",
-        "times": 2,
-        "ok_times": 2
-    },
-    "dignitary": {
-        "japanese": "高官",
-        "times": 1,
-        "ok_times": 1
-    },
-    "negligence": {
-        "japanese": "怠慢",
-        "times": 1,
-        "ok_times": 0
-    },
-    "proximity": {
-        "japanese": "近いこと",
-        "times": 1,
-        "ok_times": 1
-    },
-    "disregard": {
-        "japanese": "無関心",
-        "times": 0,
-        "ok_times": 0
-    },
-    "division": {
-        "japanese": "部門",
-        "times": 0,
-        "ok_times": 0
-    },
-    "eligible for + 名詞": {
-        "japanese": "〜の資格がある",
-        "times": 1,
-        "ok_times": 1
-    },
-    "eligible to + 動詞の原形": {
-        "japanese": "〜する資格がある",
-        "times": 1,
-        "ok_times": 1
-    },
-    "conform to ~": {
-        "japanese": "(規則など)に従う、〜と一致する(conform with ~ でもOK)",
-        "times": 2,
-        "ok_times": 1
-    },
-    "address to ~": {
-        "japanese": "〜向けの演説",
+    "acknowledged": {
+        "japanese": "定評のある",
         "times": 3,
         "ok_times": 2
     },
-    "fiscal": {
-        "japanese": "会計の",
+    "abbreviated": {
+        "japanese": "短縮された",
+        "times": 4,
+        "ok_times": 3
+    },
+    "accumulated": {
+        "japanese": "積み重ねられた",
+        "times": 4,
+        "ok_times": 4
+    },
+    "diversified": {
+        "japanese": "多様な",
+        "times": 5,
+        "ok_times": 5
+    },
+    "restrained": {
+        "japanese": "節度のある",
+        "times": 5,
+        "ok_times": 5
+    },
+    "accuse": {
+        "japanese": "〜を告発・非難する",
+        "times": 5,
+        "ok_times": 5
+    },
+    "concern": {
+        "japanese": " 〜に関係する",
+        "times": 7,
+        "ok_times": 7
+    },
+    "speculate": {
+        "japanese": "〜だと推測する",
+        "times": 5,
+        "ok_times": 4
+    },
+    "alleviate": {
+        "japanese": "〜を軽減する",
+        "times": 3,
+        "ok_times": 2
+    },
+    "provided that": {
+        "japanese": "〜という条件で",
+        "times": 7,
+        "ok_times": 5
+    },
+    "receiver": {
+        "japanese": "受話器",
+        "times": 5,
+        "ok_times": 5
+    },
+    "musical instrument": {
+        "japanese": "楽器",
+        "times": 8,
+        "ok_times": 7
+    },
+    "be particular about ~": {
+        "japanese": "〜にうるさい",
+        "times": 7,
+        "ok_times": 7
+    },
+    "waive": {
+        "japanese": "〜を免除する",
+        "times": 5,
+        "ok_times": 4
+    },
+    "convincing": {
+        "japanese": "説得力のある",
+        "times": 8,
+        "ok_times": 8
+    },
+    "misplace": {
+        "japanese": "〜を置き忘れる",
+        "times": 11,
+        "ok_times": 10
+    },
+    "stroll": {
+        "japanese": "ぶらつく",
+        "times": 12,
+        "ok_times": 12
+    },
+    "Just in case.": {
+        "japanese": "念のため",
+        "times": 3,
+        "ok_times": 3
+    },
+    "anchor": {
+        "japanese": "停泊する",
+        "times": 6,
+        "ok_times": 4
+    },
+    "defect": {
+        "japanese": "欠陥",
+        "times": 3,
+        "ok_times": 3
+    },
+    "facilitate": {
+        "japanese": "〜を手伝う",
+        "times": 4,
+        "ok_times": 1
+    },
+    "restrain": {
+        "japanese": "〜を抑制する",
+        "times": 6,
+        "ok_times": 6
+    },
+    "malfunction": {
+        "japanese": "不調",
+        "times": 6,
+        "ok_times": 6
+    },
+    "dignitary": {
+        "japanese": "高官",
+        "times": 3,
+        "ok_times": 3
+    },
+    "negligence": {
+        "japanese": "怠慢",
+        "times": 2,
+        "ok_times": 1
+    },
+    "proximity": {
+        "japanese": "近いこと",
         "times": 2,
         "ok_times": 2
+    },
+    "disregard": {
+        "japanese": "無関心",
+        "times": 4,
+        "ok_times": 4
+    },
+    "division": {
+        "japanese": "部門",
+        "times": 6,
+        "ok_times": 5
+    },
+    "eligible for + 名詞": {
+        "japanese": "〜の資格がある",
+        "times": 5,
+        "ok_times": 4
+    },
+    "eligible to + 動詞の原形": {
+        "japanese": "〜する資格がある",
+        "times": 7,
+        "ok_times": 6
+    },
+    "conform to ~": {
+        "japanese": "(規則など)に従う、〜と一致する(conform with ~ でもOK)",
+        "times": 5,
+        "ok_times": 3
+    },
+    "address to ~": {
+        "japanese": "〜向けの演説",
+        "times": 5,
+        "ok_times": 4
+    },
+    "fiscal": {
+        "japanese": "会計の",
+        "times": 6,
+        "ok_times": 6
     },
     "candid": {
         "japanese": "率直な",
-        "times": 1,
-        "ok_times": 1
+        "times": 8,
+        "ok_times": 6
     },
     "in vogue": {
         "japanese": "人気のある",
-        "times": 2,
-        "ok_times": 1
+        "times": 5,
+        "ok_times": 4
     },
     "program ratings": {
         "japanese": "視聴率",
-        "times": 2,
-        "ok_times": 2
+        "times": 4,
+        "ok_times": 4
     },
     "competitive compensation": {
         "japanese": "高収入",
-        "times": 1,
-        "ok_times": 1
+        "times": 3,
+        "ok_times": 3
     },
     "sluggish sales": {
         "japanese": "売り上げ不振",
-        "times": 0,
-        "ok_times": 0
+        "times": 5,
+        "ok_times": 5
     },
     "upturn in business": {
         "japanese": "事業の好転",
-        "times": 1,
-        "ok_times": 1
-    },
-    "box office receipts": {
-        "japanese": "興行収入",
         "times": 2,
         "ok_times": 2
     },
+    "box office receipts": {
+        "japanese": "興行収入",
+        "times": 5,
+        "ok_times": 5
+    },
     "inventiveness": {
         "japanese": "発明性",
-        "times": 0,
-        "ok_times": 0
+        "times": 9,
+        "ok_times": 8
     },
     "appraisal": {
         "japanese": "査定、評価",
-        "times": 0,
+        "times": 1,
         "ok_times": 0
     },
     "constraint": {
         "japanese": "制約",
-        "times": 4,
-        "ok_times": 3
+        "times": 8,
+        "ok_times": 7
     },
     "deduct": {
         "japanese": "控除する",
-        "times": 1,
-        "ok_times": 0
+        "times": 4,
+        "ok_times": 3
     },
     "plumber": {
         "japanese": "配管工",
-        "times": 3,
-        "ok_times": 3
+        "times": 8,
+        "ok_times": 8
     },
     "specifications": {
         "japanese": "仕様書",
-        "times": 1,
-        "ok_times": 1
+        "times": 6,
+        "ok_times": 3
     },
     "mandate": {
         "japanese": "権限",
-        "times": 0,
-        "ok_times": 0
+        "times": 5,
+        "ok_times": 1
     },
     "minutes": {
         "japanese": "議事録",
-        "times": 0,
-        "ok_times": 0
+        "times": 3,
+        "ok_times": 3
     },
     "exclusively": {
         "japanese": "のみ",
-        "times": 3,
-        "ok_times": 2
+        "times": 6,
+        "ok_times": 4
     },
     "affordable": {
         "japanese": "手頃な(a affordable price 手頃な価格)",
-        "times": 2,
-        "ok_times": 2
+        "times": 5,
+        "ok_times": 5
     },
     "flyer": {
         "japanese": "チラシ",
-        "times": 2,
-        "ok_times": 2
+        "times": 6,
+        "ok_times": 6
     },
     "invoice": {
         "japanese": "請求書",
-        "times": 1,
-        "ok_times": 1
+        "times": 8,
+        "ok_times": 7
     },
     "exclusive interview": {
         "japanese": "独占インタビュー",
-        "times": 0,
-        "ok_times": 0
+        "times": 4,
+        "ok_times": 3
     },
     "take a detour": {
         "japanese": "回り道をする",
-        "times": 2,
-        "ok_times": 1
+        "times": 9,
+        "ok_times": 6
     },
     "consolidate": {
         "japanese": "〜を合併する",
-        "times": 1,
-        "ok_times": 1
+        "times": 2,
+        "ok_times": 2
     },
     "supply room": {
         "japanese": "倉庫",
-        "times": 1,
-        "ok_times": 1
+        "times": 5,
+        "ok_times": 4
     },
     "amendment": {
         "japanese": "修正",
-        "times": 0,
-        "ok_times": 0
+        "times": 4,
+        "ok_times": 4
     },
     "final revision": {
         "japanese": "最後の改定",
-        "times": 1,
-        "ok_times": 1
+        "times": 2,
+        "ok_times": 2
     },
     "premises": {
         "japanese": "敷地",
@@ -516,47 +516,47 @@
     },
     "boasts": {
         "japanese": "誇る",
-        "times": 1,
-        "ok_times": 1
+        "times": 5,
+        "ok_times": 4
     },
     "advocate": {
         "japanese": "主張、主張する",
-        "times": 2,
-        "ok_times": 1
+        "times": 4,
+        "ok_times": 2
     },
     "confirm": {
         "japanese": "確認する",
-        "times": 1,
-        "ok_times": 1
+        "times": 6,
+        "ok_times": 5
     },
     "outstanding balance": {
         "japanese": "未払いの残金",
-        "times": 2,
-        "ok_times": 1
+        "times": 4,
+        "ok_times": 3
     },
     "receptionist": {
         "japanese": "受付係",
-        "times": 2,
-        "ok_times": 2
+        "times": 4,
+        "ok_times": 4
     },
     "durability": {
         "japanese": "耐久性",
-        "times": 1,
-        "ok_times": 1
+        "times": 5,
+        "ok_times": 4
     },
     "durable": {
         "japanese": "耐久性のある",
-        "times": 0,
-        "ok_times": 0
+        "times": 4,
+        "ok_times": 1
     },
     "duration": {
         "japanese": "期間",
-        "times": 0,
+        "times": 3,
         "ok_times": 0
     },
     "affordability": {
         "japanese": "手頃な値段",
-        "times": 4,
-        "ok_times": 4
+        "times": 10,
+        "ok_times": 9
     }
 }

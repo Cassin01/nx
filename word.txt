@@ -96,7 +96,7 @@ exclusively: のみ
 affordable: 手頃な(a affordable price 手頃な価格)
 affordability: 手頃な値段
 flyer: チラシ
-invoice: 請求書
+invoice: 請求書(bill)
 exclusive interview: 独占インタビュー
 take a detour: 回り道をする
 consolidate: 〜を合併する
@@ -113,3 +113,7 @@ durability: 耐久性
 durable: 耐久性のある
 duration: 期間
 questionnaire: アンケート
+caterer: ケータリング業者
+nominal fee: わずかな料金
+beatable rates: 他の追随を許さない価格
+exceptional rates: 破格の値段

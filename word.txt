@@ -117,3 +117,13 @@ caterer: ケータリング業者
 nominal fee: わずかな料金
 beatable rates: 他の追随を許さない価格
 exceptional rates: 破格の値段
+exhaust fun: 換気扇
+banner: 横断幕、垂れ幕
+online auction: ネットオークション
+Leader: 指揮者
+Eatery: レストラン
+Hand in: 提出する
+venue: 会場
+bundled items: セット商品
+warranty card: 保証書
+issue a receipt: レシートを発行する

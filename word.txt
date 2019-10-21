@@ -127,3 +127,43 @@ venue: 会場
 bundled items: セット商品
 warranty card: 保証書
 issue a receipt: レシートを発行する
+convention hall: 会議場
+duty roster: 業務当番表
+arrive at work: 出社する
+classified data: 機密情報
+classified ad: (求人情報をはじめとした) 部門別案内広告
+Ltd. = Limited : 株式会社(イギリス)
+Inc. = Incorporated : 株式会社(アメリカ)
+mandate: ~を(公式に)命令する(米)
+publication: 出版物
+carpeting: 敷物類
+property: 不動産 [金フレ]
+downturn: 低下
+remedy: ~を改善する、(病気など)を治す
+newsstand price: (雑誌などの)定価
+amendment: 修正
+abbreviate: ~を縮小する
+consolidate: 〜を合併する
+agenda: 議題
+brochure: パンフレット
+deal: 取引
+venue: 会場
+railway: 鉄道
+the city center: 都心部
+quotation: 見積つもり、引用
+matinee: (演劇、音楽会などの)昼興行
+profession: (専門的職業)
+benefit package: 福利厚生
+assign ~ to···: ~を···に割り当てる
+in a big way: 非常に
+put ~ out: ~を困らせる
+custom: 慣習
+spacious: 見掛け倒しの
+introductory: 入門の
+aspire: 〜を目指す
+commence: 始まる
+devise: 考案する
+reception: 歓迎会、受付、受信状況
+vicinity: 近所
+mandatory: 義務の
+mural: 壁画

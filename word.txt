@@ -59,14 +59,12 @@ waive: 〜を免除する
 convincing: 説得力のある
 misplace: 〜を置き忘れる
 stroll: ぶらつく
-foreseeable: 予見できる
 Just in case.: 念のため
 anchor: 停泊する
 defect: 欠陥
 facilitate: 〜を手伝う
 restrain: 〜を抑制する
 malfunction: 不調
-consecutively: 引き続いて
 dignitary: 高官
 negligence: 怠慢
 proximity: 近いこと
@@ -90,7 +88,6 @@ constraint: 制約
 deduct: 控除する
 plumber: 配管工
 specifications: 仕様書
-mandate: 権限
 minutes: 議事録
 exclusively: のみ
 affordable: 手頃な(a affordable price 手頃な価格)
@@ -111,7 +108,6 @@ outstanding balance: 未払いの残金
 receptionist: 受付係
 durability: 耐久性
 durable: 耐久性のある
-duration: 期間
 questionnaire: アンケート
 caterer: ケータリング業者
 nominal fee: わずかな料金
@@ -134,36 +130,58 @@ classified data: 機密情報
 classified ad: (求人情報をはじめとした) 部門別案内広告
 Ltd. = Limited : 株式会社(イギリス)
 Inc. = Incorporated : 株式会社(アメリカ)
-mandate: ~を(公式に)命令する(米)
+mandate: 権限, ~を(公式に)命令する(米)
 publication: 出版物
 carpeting: 敷物類
 property: 不動産 [金フレ]
 downturn: 低下
 remedy: ~を改善する、(病気など)を治す
 newsstand price: (雑誌などの)定価
-amendment: 修正
 abbreviate: ~を縮小する
-consolidate: 〜を合併する
 agenda: 議題
 brochure: パンフレット
 deal: 取引
-venue: 会場
 railway: 鉄道
 the city center: 都心部
 quotation: 見積つもり、引用
 matinee: (演劇、音楽会などの)昼興行
-profession: (専門的職業)
+profession: (専門的)職業
 benefit package: 福利厚生
 assign ~ to···: ~を···に割り当てる
 in a big way: 非常に
 put ~ out: ~を困らせる
 custom: 慣習
-spacious: 見掛け倒しの
-introductory: 入門の
-aspire: 〜を目指す
-commence: 始まる
-devise: 考案する
-reception: 歓迎会、受付、受信状況
-vicinity: 近所
-mandatory: 義務の
-mural: 壁画
+spacious: 広々とした, 見掛け倒しの
+introductory: 入門の [金フレ]
+aspire: 〜を目指す [金フレ]
+commence: 始まる [金フレ]
+devise: 考案する [金フレ]
+reception: 歓迎会、受付、受信状況 [金フレ]
+vicinity: 近所 [金フレ]
+mandatory: 義務の [金フレ]
+mural: 壁画 [金フレ]
+culinary: 料理の [金フレ]
+attire: 服装 [金フレ]: Formal attire is required in the office.
+certified: 有資格の [金フレ]
+incur: (損失や罰金等を)受ける [金フレ]
+tentative: 仮の [金フレ]
+apprentice: 見習い [金フレ]
+proceeds: 収益 [金フレ]
+commend: 褒める [金フレ]
+inaugural: (講義や行事などの)最初の [金フレ]
+intact: 傷がない [金フレ]
+entrepreneur: 起業家
+gratitude: 感謝(の気持ち)
+association: 団体, 協会, 連盟
+publicize: 宣伝する: publicize a sports team
+vote ~ …: 投票で ~ を … に選ぶ
+attend to ~: ~ を処理する: deal with, take care of, handle, address
+a number of: かなりの, いくつかの
+construction: 建設
+fabric: 生地
+pastry chef: パティシエ
+emerging: 新興の:emerging markets
+freight: 貨物
+excerpt: 抜粋
+share holder: 株主
+duration: 継続期間, 期間
